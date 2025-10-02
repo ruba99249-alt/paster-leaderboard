@@ -60,8 +60,8 @@
       "token": "585eedb559a7f2cb1f91ba9dc18cb0b7",
       "registered_at": 1759427862.9666023,
       "best_score": 63.5,
-      "total_games": 1,
-      "last_play": 1759428002.2151892,
+      "total_games": 2,
+      "last_play": 1759428039.0818896,
       "max_devices": 3,
       "devices": [
         "4c763fd0364ea4ea"
@@ -72,5 +72,5 @@
     "hehketzz": 86.4,
     "papasigma": 63.5
   },
-  "last_updated": 1759428002.7264667
+  "last_updated": 1759428039.5153353
 }
