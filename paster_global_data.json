@@ -27,11 +27,24 @@
       "best_score": 0.0,
       "total_games": 0,
       "last_play": null
+    },
+    "user_1759426648_c93ba291": {
+      "username": "swek",
+      "password_hash": "88d58ed2c185023268b28001d8cc982ea262fc37cf1a16264eeec4caeec89581",
+      "token": "00b730ba213a8d34cbcbaadba432469a",
+      "registered_at": 1759426648.2478225,
+      "best_score": 0.0,
+      "total_games": 0,
+      "last_play": null,
+      "max_devices": 3,
+      "devices": [
+        "b41032d4256550e0"
+      ]
     }
   },
   "leaderboard": {
     "hehketzzz": 71.1,
     "hehketzz": 94.2
   },
-  "last_updated": 1759426639.3500464
+  "last_updated": 1759426648.6992705
 }
