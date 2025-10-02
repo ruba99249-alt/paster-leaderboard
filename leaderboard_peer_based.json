@@ -4,7 +4,8 @@
     "fallback_6b3d6c76ea00": 84.7,
     "fallback_bc18a002ba02": 4.2,
     "fallback_353565b79224": 76.8,
-    "fallback_de9717a1f6f0": 67.3
+    "fallback_de9717a1f6f0": 67.3,
+    "fallback_4c40bd926ccc": 67.2
   },
   "users": {
     "peer_1880484802": {
@@ -36,7 +37,13 @@
       "first_seen": 1759414870.9193797,
       "last_seen": 1759414870.9193797,
       "peer_id": "fallback_de9717a1f6f0"
+    },
+    "fallback_4c40bd926ccc": {
+      "display_name": "User101",
+      "first_seen": 1759414895.6665015,
+      "last_seen": 1759414895.6665015,
+      "peer_id": "fallback_4c40bd926ccc"
     }
   },
-  "last_updated": 1759414871.496404
+  "last_updated": 1759414896.1740985
 }
