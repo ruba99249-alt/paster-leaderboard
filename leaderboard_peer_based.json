@@ -1,7 +1,8 @@
 {
   "leaderboard": {
     "unknown_peer": 32.5,
-    "peer_1880484802": 23.3
+    "peer_1880484802": 23.3,
+    "peer_-3046980743": 69.2
   },
   "users": {
     "unknown_peer": {
@@ -13,7 +14,12 @@
       "display_name": "User738",
       "first_seen": 1759414197.2774034,
       "last_seen": 1759414222.3535047
+    },
+    "peer_-3046980743": {
+      "display_name": "User965",
+      "first_seen": 1759414315.3543556,
+      "last_seen": 1759414315.354357
     }
   },
-  "last_updated": 1759414222.8844182
+  "last_updated": 1759414316.2724676
 }
