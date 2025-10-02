@@ -6,18 +6,18 @@
       "token": "65b18d2ab9e3b2e32a9db7f708d2f428",
       "registered_at": 1759422047.0054169,
       "peer_id": "unknown",
-      "best_score": 71.1,
-      "total_games": 3,
-      "last_play": 1759424962.4503627
+      "best_score": 0.0,
+      "total_games": 0,
+      "last_play": null
     },
     "user_1759423209_ec577fb3": {
       "username": "hehketzz",
       "password_hash": "38de90475bb334fb3dea5d54f250500aba60fe2c6158115d342b06bcb46e39bf",
       "token": "3b61978e9a94e50a7065651ac9538f06",
       "registered_at": 1759423209.6246982,
-      "best_score": 94.2,
-      "total_games": 13,
-      "last_play": 1759426638.7698133
+      "best_score": 0.0,
+      "total_games": 0,
+      "last_play": null
     },
     "user_1759424622_5da1b634": {
       "username": "sigma",
@@ -46,19 +46,15 @@
       "password_hash": "8a40f376b63c8a55ab3559907846ee7160bf15956f9be8b73aeceec0aabeca52",
       "token": "763bb719188c64aea4919e9ead1e17df",
       "registered_at": 1759426730.32613,
-      "best_score": 55.2,
-      "total_games": 2,
-      "last_play": 1759426882.7806578,
+      "best_score": 0.0,
+      "total_games": 0,
+      "last_play": null,
       "max_devices": 3,
       "devices": [
         "8eb31e6f9416056e"
       ]
     }
   },
-  "leaderboard": {
-    "hehketzzz": 71.1,
-    "hehketzz": 94.2,
-    "noyus": 55.2
-  },
-  "last_updated": 1759426883.1938016
+  "leaderboard": {},
+  "last_updated": 1759427710.687631
 }
