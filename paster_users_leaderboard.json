@@ -6,11 +6,14 @@
       "token": "78729e6bd3e8545266ca574547415a4f",
       "registered_at": 1759420549.7186124,
       "peer_id": "unknown",
-      "paster_score": null,
-      "best_score": 100.0,
-      "total_games": 0
+      "paster_score": 82.6,
+      "best_score": 82.6,
+      "total_games": 1,
+      "last_play": 1759420737.1223466
     }
   },
-  "leaderboard": {},
-  "last_updated": 1759420550.1827788
+  "leaderboard": {
+    "hehketzzz": 82.6
+  },
+  "last_updated": 1759420737.8625376
 }
