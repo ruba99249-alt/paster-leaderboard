@@ -1,0 +1,18 @@
+{
+  "leaderboard": {
+    "@invalidcoder": 5.2,
+    "@alex_dev": 12.7,
+    "@mary_coder": 18.3,
+    "@john_script": 23.1,
+    "@sara_python": 29.8,
+    "@max_java": 35.4,
+    "@anna_js": 42.6,
+    "@demo_user": 47.9
+  },
+  "last_updated": 1735589256,
+  "metadata": {
+    "version": "1.0",
+    "created": "2024-12-30T15:07:36.123456",
+    "total_players": 8
+  }
+}
