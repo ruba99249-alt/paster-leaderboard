@@ -9,10 +9,19 @@
       "best_score": 63.9,
       "total_games": 2,
       "last_play": 1759422108.656124
+    },
+    "user_1759423209_ec577fb3": {
+      "username": "hehketzz",
+      "password_hash": "38de90475bb334fb3dea5d54f250500aba60fe2c6158115d342b06bcb46e39bf",
+      "token": "3b61978e9a94e50a7065651ac9538f06",
+      "registered_at": 1759423209.6246982,
+      "best_score": 100.0,
+      "total_games": 0,
+      "last_play": null
     }
   },
   "leaderboard": {
     "hehketzzz": 63.9
   },
-  "last_updated": 1759422109.2897053
+  "last_updated": 1759423210.1369667
 }
