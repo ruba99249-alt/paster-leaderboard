@@ -56,12 +56,12 @@
     },
     "user_1759427862_aaf9bfb3": {
       "username": "papasigma",
-      "password_hash": "9d693eeee1d1899cbc50b6d45df953d3835acf28ee869879b45565fccc814765",
+      "password_hash": "177c78c3f7326f40f23dae36fbc3eb9b7b64eada4c4860617bb05c66e9635ef0",
       "token": "585eedb559a7f2cb1f91ba9dc18cb0b7",
       "registered_at": 1759427862.9666023,
-      "best_score": 44.6,
-      "total_games": 1,
-      "last_play": 1759427916.7070928,
+      "best_score": 0.0,
+      "total_games": 0,
+      "last_play": null,
       "max_devices": 3,
       "devices": [
         "4c763fd0364ea4ea"
@@ -69,8 +69,7 @@
     }
   },
   "leaderboard": {
-    "hehketzz": 86.4,
-    "papasigma": 44.6
+    "hehketzz": 86.4
   },
-  "last_updated": 1759427917.131555
+  "last_updated": 1759427995.5557668
 }
