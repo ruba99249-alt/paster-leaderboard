@@ -1,0 +1,16 @@
+{
+  "users": {
+    "user_1759420549_bc6b9250": {
+      "username": "hehketzzz",
+      "password_hash": "38de90475bb334fb3dea5d54f250500aba60fe2c6158115d342b06bcb46e39bf",
+      "token": "78729e6bd3e8545266ca574547415a4f",
+      "registered_at": 1759420549.7186124,
+      "peer_id": "unknown",
+      "paster_score": null,
+      "best_score": 100.0,
+      "total_games": 0
+    }
+  },
+  "leaderboard": {},
+  "last_updated": 1759420550.1827788
+}
