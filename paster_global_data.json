@@ -6,9 +6,9 @@
       "token": "65b18d2ab9e3b2e32a9db7f708d2f428",
       "registered_at": 1759422047.0054169,
       "peer_id": "unknown",
-      "best_score": 63.9,
-      "total_games": 2,
-      "last_play": 1759422108.656124
+      "best_score": 71.1,
+      "total_games": 3,
+      "last_play": 1759424962.4503627
     },
     "user_1759423209_ec577fb3": {
       "username": "hehketzz",
@@ -30,8 +30,8 @@
     }
   },
   "leaderboard": {
-    "hehketzzz": 63.9,
+    "hehketzzz": 71.1,
     "hehketzz": 94.2
   },
-  "last_updated": 1759424751.2796214
+  "last_updated": 1759424963.0456996
 }
