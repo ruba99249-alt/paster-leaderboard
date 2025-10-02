@@ -1,6 +1,7 @@
 {
   "leaderboard": {
-    "peer_1880484802": 52.9
+    "peer_1880484802": 52.9,
+    "fallback_6b3d6c76ea00": 84.7
   },
   "users": {
     "peer_1880484802": {
@@ -8,7 +9,13 @@
       "first_seen": 1759414538.8821943,
       "last_seen": 1759414538.8821948,
       "last_updated": 1759414538.8821952
+    },
+    "fallback_6b3d6c76ea00": {
+      "display_name": "User747",
+      "first_seen": 1759414828.250383,
+      "last_seen": 1759414828.250383,
+      "peer_id": "fallback_6b3d6c76ea00"
     }
   },
-  "last_updated": 1759414538.8823895
+  "last_updated": 1759414828.9887037
 }
