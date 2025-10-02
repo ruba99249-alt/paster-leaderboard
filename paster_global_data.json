@@ -15,14 +15,14 @@
       "password_hash": "38de90475bb334fb3dea5d54f250500aba60fe2c6158115d342b06bcb46e39bf",
       "token": "3b61978e9a94e50a7065651ac9538f06",
       "registered_at": 1759423209.6246982,
-      "best_score": 46.0,
-      "total_games": 2,
-      "last_play": 1759423279.9749317
+      "best_score": 10.1,
+      "total_games": 3,
+      "last_play": 1759423306.123527
     }
   },
   "leaderboard": {
     "hehketzzz": 63.9,
-    "hehketzz": 46.0
+    "hehketzz": 10.1
   },
-  "last_updated": 1759423280.4849286
+  "last_updated": 1759423306.6005757
 }
