@@ -1,8 +1,9 @@
 {
-	"last_updated": 1759517403.503,
+	"last_updated": 1759517410.994,
 	"leaderboard": {
 		"hehketzz": 99.7,
 		"papashsigma": 82.3,
+		"sigmaproallah": 62.2,
 		"sigmr": 53.7
 	},
 	"users": {
@@ -139,16 +140,16 @@
 			"username": "papashsigma"
 		},
 		"user_1759517402_8fc487ae": {
-			"best_score": 0,
+			"best_score": 62.2,
 			"devices": [
 				"ea74f49ba6517265"
 			],
-			"last_play": null,
+			"last_play": 1759517410.342,
 			"max_devices": 3,
 			"password_hash": "cc399d73903f06ee694032ab0538f05634ff7e1ce5e8e50ac330a871484f34cf",
 			"registered_at": 1759517402.885,
 			"token": "8fc487ae7175b42ee43cc6afaf1cadf5",
-			"total_games": 0,
+			"total_games": 1,
 			"username": "sigmaproallah"
 		}
 	}
