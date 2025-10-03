@@ -72,9 +72,9 @@
       "password_hash": "e35bf5db2af5a880fb3e3887e1574f30b1139a3547ec82f8352e03d3d5bcd32d",
       "token": "f35e17b3f5029a56d87af7bafef1a624",
       "registered_at": 1759491860.0904438,
-      "best_score": 10.4,
-      "total_games": 1,
-      "last_play": 1759492000.9803095,
+      "best_score": 30.0,
+      "total_games": 2,
+      "last_play": 1759496248.801687,
       "max_devices": 3,
       "devices": [
         "7131804835070343"
@@ -83,7 +83,7 @@
   },
   "leaderboard": {
     "hehketzz": 99.7,
-    "sigmr": 10.4
+    "sigmr": 30.0
   },
-  "last_updated": 1759492001.5100777
+  "last_updated": 1759496249.191927
 }
