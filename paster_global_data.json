@@ -1,5 +1,5 @@
 {
-	"last_updated": 1759515878.842,
+	"last_updated": 1759516255.38,
 	"leaderboard": {
 		"hehketzz": 99.7,
 		"sigmr": 53.7
@@ -110,6 +110,19 @@
 			"token": "0000000045d525a9000000002684305f",
 			"total_games": 0,
 			"username": "papashas"
+		},
+		"user_1759516254_61d420e1": {
+			"best_score": 0,
+			"devices": [
+				"ea74f49ba6517265"
+			],
+			"last_play": null,
+			"max_devices": 3,
+			"password_hash": "38de90475bb334fb3dea5d54f250500aba60fe2c6158115d342b06bcb46e39bf",
+			"registered_at": 1759516254.723,
+			"token": "61d420e1130c955aaef0b319cb3e6d4b",
+			"total_games": 0,
+			"username": "zovzovzov"
 		}
 	}
 }
