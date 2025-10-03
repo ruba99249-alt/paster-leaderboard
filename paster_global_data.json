@@ -16,8 +16,8 @@
       "token": "3b61978e9a94e50a7065651ac9538f06",
       "registered_at": 1759423209.6246982,
       "best_score": 99.7,
-      "total_games": 24,
-      "last_play": 1759491599.4819908
+      "total_games": 25,
+      "last_play": 1759491884.5627902
     },
     "user_1759424622_5da1b634": {
       "username": "sigma",
@@ -84,5 +84,5 @@
   "leaderboard": {
     "hehketzz": 99.7
   },
-  "last_updated": 1759491860.600283
+  "last_updated": 1759491884.9875984
 }
