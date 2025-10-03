@@ -1,5 +1,5 @@
 {
-	"last_updated": 1759516907.716,
+	"last_updated": 1759516955.564,
 	"leaderboard": {
 		"hehketzz": 99.7,
 		"papashsigma": 79.9,
@@ -130,12 +130,12 @@
 			"devices": [
 				"ea74f49ba6517265"
 			],
-			"last_play": 1759516907.091,
+			"last_play": 1759516954.766,
 			"max_devices": 3,
 			"password_hash": "edee29f882543b956620b26d0ee0e7e950399b1c4222f5de05e06425b4c995e9",
 			"registered_at": 1759516573.829,
 			"token": "6468b7d3e7f142cd6ce3229546d9663c",
-			"total_games": 2,
+			"total_games": 3,
 			"username": "papashsigma"
 		}
 	}
