@@ -1,89 +1,102 @@
 {
-  "users": {
-    "user_1759422047_40bd036d": {
-      "username": "hehketzzz",
-      "password_hash": "38de90475bb334fb3dea5d54f250500aba60fe2c6158115d342b06bcb46e39bf",
-      "token": "65b18d2ab9e3b2e32a9db7f708d2f428",
-      "registered_at": 1759422047.0054169,
-      "peer_id": "unknown",
-      "best_score": 0.0,
-      "total_games": 0,
-      "last_play": null
-    },
-    "user_1759423209_ec577fb3": {
-      "username": "hehketzz",
-      "password_hash": "38de90475bb334fb3dea5d54f250500aba60fe2c6158115d342b06bcb46e39bf",
-      "token": "3b61978e9a94e50a7065651ac9538f06",
-      "registered_at": 1759423209.6246982,
-      "best_score": 99.7,
-      "total_games": 26,
-      "last_play": 1759491990.04456
-    },
-    "user_1759424622_5da1b634": {
-      "username": "sigma",
-      "password_hash": "3ca74779bdf0f0ba587f6a5dd2714505248a84002b1aeda3e63646fe0ed4b4fe",
-      "token": "6a96f1db7c75dbe8244ca1719175c9a5",
-      "registered_at": 1759424622.6674323,
-      "best_score": 0.0,
-      "total_games": 0,
-      "last_play": null
-    },
-    "user_1759426648_c93ba291": {
-      "username": "swek",
-      "password_hash": "88d58ed2c185023268b28001d8cc982ea262fc37cf1a16264eeec4caeec89581",
-      "token": "00b730ba213a8d34cbcbaadba432469a",
-      "registered_at": 1759426648.2478225,
-      "best_score": 0.0,
-      "total_games": 0,
-      "last_play": null,
-      "max_devices": 3,
-      "devices": [
-        "b41032d4256550e0"
-      ]
-    },
-    "user_1759426730_36b8b6d3": {
-      "username": "noyus",
-      "password_hash": "8a40f376b63c8a55ab3559907846ee7160bf15956f9be8b73aeceec0aabeca52",
-      "token": "763bb719188c64aea4919e9ead1e17df",
-      "registered_at": 1759426730.32613,
-      "best_score": 0.0,
-      "total_games": 0,
-      "last_play": null,
-      "max_devices": 3,
-      "devices": [
-        "8eb31e6f9416056e"
-      ]
-    },
-    "user_1759427862_aaf9bfb3": {
-      "username": "papasigma",
-      "password_hash": "177c78c3f7326f40f23dae36fbc3eb9b7b64eada4c4860617bb05c66e9635ef0",
-      "token": "585eedb559a7f2cb1f91ba9dc18cb0b7",
-      "registered_at": 1759427862.9666023,
-      "best_score": 0.0,
-      "total_games": 0,
-      "last_play": null,
-      "max_devices": 3,
-      "devices": [
-        "4c763fd0364ea4ea"
-      ]
-    },
-    "user_1759491860_76e91a94": {
-      "username": "sigmr",
-      "password_hash": "e35bf5db2af5a880fb3e3887e1574f30b1139a3547ec82f8352e03d3d5bcd32d",
-      "token": "f35e17b3f5029a56d87af7bafef1a624",
-      "registered_at": 1759491860.0904438,
-      "best_score": 53.7,
-      "total_games": 3,
-      "last_play": 1759515508.0405593,
-      "max_devices": 3,
-      "devices": [
-        "7131804835070343"
-      ]
-    }
-  },
-  "leaderboard": {
-    "hehketzz": 99.7,
-    "sigmr": 53.7
-  },
-  "last_updated": 1759515508.7566674
+	"last_updated": 1759515841.622,
+	"leaderboard": {
+		"hehketzz": 99.7,
+		"sigmr": 53.7
+	},
+	"users": {
+		"user_1759422047_40bd036d": {
+			"best_score": 0,
+			"last_play": null,
+			"password_hash": "38de90475bb334fb3dea5d54f250500aba60fe2c6158115d342b06bcb46e39bf",
+			"peer_id": "unknown",
+			"registered_at": 1759422047.00542,
+			"token": "65b18d2ab9e3b2e32a9db7f708d2f428",
+			"total_games": 0,
+			"username": "hehketzzz"
+		},
+		"user_1759423209_ec577fb3": {
+			"best_score": 99.7,
+			"last_play": 1759491990.04456,
+			"password_hash": "38de90475bb334fb3dea5d54f250500aba60fe2c6158115d342b06bcb46e39bf",
+			"registered_at": 1759423209.6247,
+			"token": "3b61978e9a94e50a7065651ac9538f06",
+			"total_games": 26,
+			"username": "hehketzz"
+		},
+		"user_1759424622_5da1b634": {
+			"best_score": 0,
+			"last_play": null,
+			"password_hash": "3ca74779bdf0f0ba587f6a5dd2714505248a84002b1aeda3e63646fe0ed4b4fe",
+			"registered_at": 1759424622.66743,
+			"token": "6a96f1db7c75dbe8244ca1719175c9a5",
+			"total_games": 0,
+			"username": "sigma"
+		},
+		"user_1759426648_c93ba291": {
+			"best_score": 0,
+			"devices": [
+				"b41032d4256550e0"
+			],
+			"last_play": null,
+			"max_devices": 3,
+			"password_hash": "88d58ed2c185023268b28001d8cc982ea262fc37cf1a16264eeec4caeec89581",
+			"registered_at": 1759426648.24782,
+			"token": "00b730ba213a8d34cbcbaadba432469a",
+			"total_games": 0,
+			"username": "swek"
+		},
+		"user_1759426730_36b8b6d3": {
+			"best_score": 0,
+			"devices": [
+				"8eb31e6f9416056e"
+			],
+			"last_play": null,
+			"max_devices": 3,
+			"password_hash": "8a40f376b63c8a55ab3559907846ee7160bf15956f9be8b73aeceec0aabeca52",
+			"registered_at": 1759426730.32613,
+			"token": "763bb719188c64aea4919e9ead1e17df",
+			"total_games": 0,
+			"username": "noyus"
+		},
+		"user_1759427862_aaf9bfb3": {
+			"best_score": 0,
+			"devices": [
+				"4c763fd0364ea4ea"
+			],
+			"last_play": null,
+			"max_devices": 3,
+			"password_hash": "177c78c3f7326f40f23dae36fbc3eb9b7b64eada4c4860617bb05c66e9635ef0",
+			"registered_at": 1759427862.9666,
+			"token": "585eedb559a7f2cb1f91ba9dc18cb0b7",
+			"total_games": 0,
+			"username": "papasigma"
+		},
+		"user_1759491860_76e91a94": {
+			"best_score": 53.7,
+			"devices": [
+				"7131804835070343"
+			],
+			"last_play": 1759515508.04056,
+			"max_devices": 3,
+			"password_hash": "e35bf5db2af5a880fb3e3887e1574f30b1139a3547ec82f8352e03d3d5bcd32d",
+			"registered_at": 1759491860.09044,
+			"token": "f35e17b3f5029a56d87af7bafef1a624",
+			"total_games": 3,
+			"username": "sigmr"
+		},
+		"user_1759515840_00000000": {
+			"best_score": 0,
+			"devices": [
+				"ea74f49ba6517265"
+			],
+			"last_play": null,
+			"max_devices": 3,
+			"password_hash": "934a76e717de5ab4b99a03231c5fe9b72b817a69b2cd3d78b07b6b9a1b56a52e",
+			"registered_at": 1759515840.944,
+			"token": "00000000970ce0b200000000fbad6d1d",
+			"total_games": 0,
+			"username": "sigmas"
+		}
+	}
 }
