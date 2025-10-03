@@ -1,8 +1,8 @@
 {
-	"last_updated": 1759516955.564,
+	"last_updated": 1759517243.341,
 	"leaderboard": {
 		"hehketzz": 99.7,
-		"papashsigma": 79.9,
+		"papashsigma": 87.1,
 		"sigmr": 53.7
 	},
 	"users": {
@@ -126,16 +126,16 @@
 			"username": "zovzovzov"
 		},
 		"user_1759516573_6468b7d3": {
-			"best_score": 79.9,
+			"best_score": 87.1,
 			"devices": [
 				"ea74f49ba6517265"
 			],
-			"last_play": 1759516954.766,
+			"last_play": 1759517242.646,
 			"max_devices": 3,
 			"password_hash": "edee29f882543b956620b26d0ee0e7e950399b1c4222f5de05e06425b4c995e9",
 			"registered_at": 1759516573.829,
 			"token": "6468b7d3e7f142cd6ce3229546d9663c",
-			"total_games": 3,
+			"total_games": 4,
 			"username": "papashsigma"
 		}
 	}
