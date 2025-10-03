@@ -66,10 +66,23 @@
       "devices": [
         "4c763fd0364ea4ea"
       ]
+    },
+    "user_1759491860_76e91a94": {
+      "username": "sigmr",
+      "password_hash": "e35bf5db2af5a880fb3e3887e1574f30b1139a3547ec82f8352e03d3d5bcd32d",
+      "token": "f35e17b3f5029a56d87af7bafef1a624",
+      "registered_at": 1759491860.0904438,
+      "best_score": 0.0,
+      "total_games": 0,
+      "last_play": null,
+      "max_devices": 3,
+      "devices": [
+        "7131804835070343"
+      ]
     }
   },
   "leaderboard": {
     "hehketzz": 99.7
   },
-  "last_updated": 1759491599.9031558
+  "last_updated": 1759491860.600283
 }
