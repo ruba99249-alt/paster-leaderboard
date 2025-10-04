@@ -1,5 +1,5 @@
 {
-	"last_updated": 1759566582.538,
+	"last_updated": 1759566628.553,
 	"leaderboard": {
 		"hehketzz": 99.7,
 		"papashsigma": 82.3,
@@ -144,12 +144,12 @@
 			"devices": [
 				"ea74f49ba6517265"
 			],
-			"last_play": 1759566581.886,
+			"last_play": 1759566627.908,
 			"max_devices": 3,
 			"password_hash": "cc399d73903f06ee694032ab0538f05634ff7e1ce5e8e50ac330a871484f34cf",
 			"registered_at": 1759517402.885,
 			"token": "8fc487ae7175b42ee43cc6afaf1cadf5",
-			"total_games": 4,
+			"total_games": 5,
 			"username": "sigmaproallah"
 		}
 	}
